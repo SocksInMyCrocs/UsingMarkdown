@@ -12,3 +12,7 @@ console.WriteLine("Wow this is some code");
 |Console|
 Wow this is some code
 ```
+### LIST EXAMPLE
+- [x] Item 1
+- [x] Item 2
+- [ ] Item 3
